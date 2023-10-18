@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Merijn Geurts
 
 Did you already check [merijng.github.io](https://merijng.github.io)?
 
